@@ -1,0 +1,17 @@
+ class baseclass:
+#     a=5
+#     b=6
+#     def display(self):
+#         print('base class')
+# class derivedclass(baseclass):
+#     c=7
+#     d=8
+#     def show(self):
+#         print('derivedclass')
+# class childclass(derivedclass):
+#     e=9
+#     f=10
+#     def cdisplay(self):
+#         print('childclass')
+# cobj=childclass()
+# print(cobj.a)
